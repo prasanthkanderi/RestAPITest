@@ -1,0 +1,14 @@
+body
+{
+margin:0;
+font-family:sans-serif;
+text-color:'red';
+}
+.content
+{
+text-align:centre;
+}
+.table
+{
+border:"black";
+}
